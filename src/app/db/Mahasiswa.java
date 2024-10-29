@@ -4,10 +4,6 @@
  */
 package app.db;
 
-/**
- *
- * @author AEP CAHYANA
- */
 public class Mahasiswa {
     private String NoBP;
     private String Nama;
